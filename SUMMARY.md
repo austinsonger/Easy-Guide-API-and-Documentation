@@ -6,5 +6,12 @@
   * XML
   * Section One Exercises
 * [Section 2](section-2.md)
-* Section 3
+  * Requests, Resources, and Methods
+  * Query Parametrs
+  * Headers
+  * Authorization and Authenication
+  * Request Bodies and Responses
+  * Final Words
+  * Section Two Exercises
+* [Section 3](section-3.md)
 
