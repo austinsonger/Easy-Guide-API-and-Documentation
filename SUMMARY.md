@@ -4,7 +4,7 @@
 * [Section 1](section-1.md)
   * [JSON](section-1/json.md)
   * [XML](section-1/xml.md)
-  * Section One Exercises
+  * [Section One Exercises](section-1/section-one-exercises.md)
 * [Section 2](section-2.md)
   * Requests, Resources, and Methods
   * Query Parametrs
